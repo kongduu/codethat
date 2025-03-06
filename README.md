@@ -1,7 +1,8 @@
 # React Router를 사용한 애플리케이션 라우팅 설정
 
 ## 개요
-이 코드는 `react-router-dom` 라이브러리를 사용하여 React 애플리케이션의 라우팅을 설정하는 `Main` 컴포넌트를 정의합니다. `BrowserRouter`를 통해 클라이언트 측 라우팅을 활성화하고, `Routes`와 `Route` 컴포넌트를 사용하여 URL 경로에 따라 다른 페이지를 렌더링합니다.
+- `react-router-dom` 라이브러리를 사용하여 React 애플리케이션의 라우팅을 설정하는 `Main` 컴포넌트를 정의합니다.
+- `BrowserRouter`를 통해 클라이언트 측 라우팅을 활성화하고, `Routes`와 `Route` 컴포넌트를 사용하여 URL 경로에 따라 다른 페이지를 렌더링합니다.
 
 ## 주요 기능 및 구조
 
